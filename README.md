@@ -1,4 +1,4 @@
--- 👋 Hi, I’m @syslinux33 
+- 👋 Hi, I’m @syslinux33 
 - You can call me Wov, or Wowka it's my Nickname. 
 - 👀 I’m interested in Technic, ofc Computer, & all that normal Stuff, like HD Tv's & a Smartphone. 
 - 🍀 I’m currently learning about the Linux Terminal & KDE Neon to love <3
